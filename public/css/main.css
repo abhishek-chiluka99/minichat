@@ -1,0 +1,12 @@
+body{
+
+    font-family : Avenir , Helvetica , Arial , sans-serif;
+}
+
+form {
+      margin-top : 12px;
+}
+
+#chat-message li {
+    padding : 12px;
+}
